@@ -10,81 +10,64 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: B.Sc. in Mechanical Engineering
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2019-2024
   institution:
-    name: University of XYZ
-    url: "#"
+    name: Louisiana State University (LSU)
+    url: "https://www.lsu.edu/eng/mie/"
   grade: #(optional)
     scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    achieved: 3.91
+    outOf: 4.3
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+    - name: Intro to Robotics Lab
+      achieved: 4.3
+      outOf: 4.3
+    - name: Intro to Computer Vision
+      achieved: '4.0'
+      outOf: 4.3
+    - name: System Dynamics and Modeling
+      achieved: 3.7
+      outOf: 4.3
+    - name: Fluids
+      achieved: 3.7
+      outOf: 4.3
+    - name: Machine Design I
+      achieved: 4.3
+      outOf: 4.3
+    - name: Machine Design II
+      achieved: 3.3
+      outOf: 4.3
+    - name: Intro to Mechanical Engineering Design
+      achieved: '4.0'
+      outOf: 4.3
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
+  - title: Using Granular Jamming and a Parallel Compliant Mechanism to Provide a Rapidly Deployable, Custom-Fitted Cervical Collar
     url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+  - 'Maker Club (Founding Officer): Planned and lead workshops on Solidworks, 3D printing, and other topics.'
+  - 'Ballroom Club (Treasurer): Handled club funds. Provided 1-on-1 help to newer members during group lessons.'
+  - 'Trip Leader: Planned transport, food, and itinerary for multi-day camping & backpacking trips. (Smokies & GC)'
+  - 'Viola: Played in the LSU Orchestra for one semester. Six hours of rehearsal and several hours of pratice per week.'
+- name: High School Diploma
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2015-2019
   institution:
-    name: JK School of Science
+    name: Baton Rouge Magnet High School
+    url: "https://brmhs.com/"
   grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    scale: CGPA
+    achieved: 4.61
+    outOf: '4.61 (Classes: Standard 4.0, Honors 5.0)'
+  publications:
+    - title: Infrared Laser Ablation Sample Transfer of Tissue DNA for Genomic Analysis.
+      url: "https://doi.org/10.1007/s00216-017-0373-z"
+  extracurricularActivities: #(optional)
+  - 'Viola: Started at 9 years old. Proudest moment was achieving second chair in the All State Orchestra in 11th grade.'
+  - 'Ballroom Club (Treasurer): Everything from waltz to cha-cha to polka.'
+  - 'Science Olympiad: Made it to Nationals in 12th grade.'

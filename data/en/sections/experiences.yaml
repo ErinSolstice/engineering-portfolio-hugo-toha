@@ -11,54 +11,46 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Trane Technologies
+    url: "https://www.tranetechnologies.com/"
+    location: Tyler, TX
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Trane Technologies designs and manufactures HVAC systems.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Systems Engineering Co-op
+    start: Jun 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Using historical furnace usage data to better understand locations suitable for heat pumps.
+    - Wrote an article on methods for recycling 3D printer filament for the Sustainability Team newsletter.
+    - Qualified a new material for furnace latches to relieve supply chain issues.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: W.R. Grace & Co.
+    url: "https://grace.com/"
+    location: Baton Rouge, LA
+    overview: W.R. Grace is a chemical manufacturing company and the Baton Rouge plant focuses on catalysts for plastics production.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Mechanical Engineering Intern, Maintenance Department
+    start: May 2021
+    end: Aug 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Identified material incompatibility between filter press plates and process slurry ($27,000 annual savings).
+    - Converted ~8,000 documents from pdf to Word to allow updates, extracting data using OCR, RegEx, and Adobe.
+    - Provided missing code calculations by modeling 3 existing pressure vessels in the software package Compress.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: President's Future Leaders in Research (LSU)
+    url: "https://www.lsu.edu/discover/funding/presidents_future_leaders_in_research.php"
+    location: Baton Rouge, LA
+    overview: PFLR is a program that provides undergraduate students funding to pursue research with a professor.:w
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Research Assistant - iCORE Lab
+    start: Sep 2019
+    # end: Jan 2016
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Developing a cervical collar using granular jamming for improved restriction of motion, fit, & patient comfort.
+    - Using SolidWorks and additive manufacturing for the design and manufacture of prototype cervical collars.
+    - Presenting conference paper on prototype collar as the lead author at IMECE 2022 run by ASME.
